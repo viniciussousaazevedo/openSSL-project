@@ -1,0 +1,1 @@
+V	330429144600Z		1000	unknown	/C=BR/ST=Paraiba/O=V & K Corporation/OU=V & K Corporation Certificate Authority/CN=V & K Intermediate CA/emailAddress=vinicius.azevedo@ccc.ufcg.edu.br
