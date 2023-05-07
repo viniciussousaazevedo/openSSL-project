@@ -1,0 +1,2 @@
+V	240516130117Z		1000	unknown	/C=BR/ST=Paraiba/L=Campina Grande/O=UFCG/OU=UFCG Certificate Authority/CN=UFCG CA
+V	240516131144Z		1001	unknown	/C=BR/ST=Paraiba/L=Jo\xC3\x83\xC2\xA3o Pessoa/O=UFPB/OU=UFPB Web Services/CN=www.ufpb.com
