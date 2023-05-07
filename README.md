@@ -5,6 +5,7 @@ this is a system security project for openSSL usage for CA creation and manageme
 ## Code organization
 
 .
+
 ├── home/bob
     Bob home directory where he keeps his key and certificate
 
